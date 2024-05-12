@@ -11,3 +11,4 @@ number2 = 3
 minus = number1 - number2
 
 print("Разность чисел:", minus)
+print("Демонстрация")
